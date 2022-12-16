@@ -9,7 +9,7 @@
 
 	<!-- Facotorisation de la version de spring -->
 	<properties>
-		<spring-version>4.1.9.RELEASE</spring-version>
+		<spring-version>5.2.20.RELEASE</spring-version>
 	</properties>
 
 
